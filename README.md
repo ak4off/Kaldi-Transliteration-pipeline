@@ -94,7 +94,9 @@ Outputs:
 ```bash
 pip install ai4bharat-transliteration tqdm
 ```
-refer AI4Bharath Xlit [https://pypi.org/project/ai4bharat-transliteration/]
+```
+ refer AI4Bharath Xlit[https://pypi.org/project/ai4bharat-transliteration/]
+```
 ---
 
 ## Usage
